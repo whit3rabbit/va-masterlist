@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VA Masterlist Search</title>
+    <link rel="stylesheet" href="style.css">   
+</head>
+<body>
+    <center> 
+        <h1> VA Masterlist</h1>
+        Pulled from: <a href="https://www.reddit.com/r/VeteransBenefits/wiki/masterlist/">https://www.reddit.com/r/VeteransBenefits/wiki/masterlist/</a>
+    </center>
+    <input type="text" id="searchBox" placeholder="Search..." oninput="suggest()">
+    <ul id="suggestions" class="suggestion-list"></ul>
+    <div id="contentDisplay"></div>
+    <script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
