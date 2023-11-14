@@ -1,5 +1,8 @@
 # Searchable VA Ratings Masterlist scraped from reddit
 
+VIEW THE WEBPAGE:
+[https://whit3rabbit.github.io/va-masterlist/](https://whit3rabbit.github.io/va-masterlist/)
+
 A webpage to search through conditions to get the ratings information.  Information is scrapped from reddit.
 
 ## Reddit Wiki Masterlist Scraper
